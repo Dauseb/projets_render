@@ -1,4 +1,4 @@
-baseurl = "https://sebd.ze.cx"
+#baseurl = "https://sebd.ze.cx"
 title = "Sébastien Daudelin"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "fr-ca"
